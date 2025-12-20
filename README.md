@@ -1,38 +1,27 @@
 <h1 align="center">Rayane Terki</h1>
 <p align="center">
-Computer Science Student · Software Engineer (in progress) · Cybersecurity-Oriented
+Computer Science Student · Full-Stack Developer · Cybersecurity Enthusiast
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/terki-rayane">
-    <img src="https://img.shields.io/badge/LinkedIn-Terki%20Rayane-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Terki%20Rayane-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rayaneterki55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rayaneterki55@gmail.com-D14836?logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-rayaneterki55@gmail.com-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/trrayane?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-30+-blue"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trrayane&style=flat&color=3a3a3a">
+  <img src="https://komarev.com/ghpvc/?username=trrayane&style=flat&color=3a3a3a"/>
 </p>
 
 ---
 
-## Profile
-
-I am a **computer science student** with a strong inclination toward  
-**software engineering, system-level programming, and cybersecurity**.
-
-My approach to programming is based on:
-- understanding how things work **under the hood**
-- writing **predictable, efficient, and maintainable code**
-- prioritizing **depth and fundamentals over trends**
-
-I build projects that demonstrate **real technical skills**, not tutorials.
-
----
-
-## Technical Competencies
+## 💻 Technical Skills
 
 ### Programming Languages
 <p>
@@ -45,7 +34,7 @@ I build projects that demonstrate **real technical skills**, not tutorials.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38"/>
 </p>
 
-### Web & Backend Development
+### Web & Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/>
@@ -59,7 +48,7 @@ I build projects that demonstrate **real technical skills**, not tutorials.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/>
 </p>
 
-### Systems, Tools & Environment
+### Tools & Environment
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
@@ -70,74 +59,53 @@ I build projects that demonstrate **real technical skills**, not tutorials.
 
 ---
 
-## Selected Projects
-
-### 2048 Game — C / SDL2
-A complete implementation of the **2048 game** built from scratch using **SDL2**.
-- Manual rendering and event management
-- Custom game loop and state handling
-- Focus on performance and memory safety
-
-**Keywords**: C, SDL2, Game Loop, Memory Management
-
----
-
-### Calculator — x86 Assembly
-A low-level calculator implemented in **x86 Assembly**.
-- Arithmetic operations handled directly via registers
-- Stack manipulation and syscall usage
-- Reinforced understanding of CPU-level execution
-
-**Keywords**: Assembly, Registers, Stack, Low-Level Computing
-
----
-
-### Library Management System
-A structured system designed to manage:
-- books
-- users
-- borrow/return operations
-
-Built with a clean separation between business logic and data persistence.
-
-**Keywords**: Backend Architecture, CRUD, SQL Databases
-
----
-
-## Engineering Focus
-
-- Software architecture & clean code
-- Low-level programming and operating systems
-- Cybersecurity fundamentals
-- Algorithms, data structures, and complexity
-- Backend systems and APIs
-
----
-
-## GitHub Activity & Metrics
+## 🌐 GitHub Analytics (Light & Dark Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trrayane&show_icons=true&theme=github_dark" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrayane&layout=compact&theme=github_dark" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=trrayane&show_icons=true&theme=react&count_private=true" height="160" alt="Light Mode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrayane&layout=compact&theme=react" height="160" alt="Light Mode Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trrayane&show_icons=true&theme=dark&count_private=true" height="160" alt="Dark Mode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrayane&layout=compact&theme=dark" height="160" alt="Dark Mode Languages"/>
 </p>
 
 ---
 
-## Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/trrayane/trrayane/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/trrayane/trrayane/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## Contact
+## 🎯 Focus Areas
+
+- Full-Stack Development (Node.js, Express, React)  
+- Cybersecurity & Systems Security  
+- Low-level Programming & Operating Systems  
+- Algorithms & Data Structures  
+- Clean Code & Software Architecture  
+
+---
+
+## ⚡ Professional Highlights
+
+- Continuous GitHub activity to showcase **practice & consistency**  
+- Strong command of **languages from low-level (C, Assembly) to high-level (JS, Python, PHP)**  
+- Solid experience with **databases, backend APIs, and DevOps tools**  
+- Open for **collaboration, internships, and professional opportunities**  
+- Adheres to **clean, maintainable, and scalable code standards**
+
+---
+
+## 📬 Contact
 
 - LinkedIn: https://www.linkedin.com/in/terki-rayane  
 - Email: rayaneterki55@gmail.com  
 
----
-
 <p align="center">
-  <sub>Engineering is not about tools. It is about understanding.</sub>
+  <sub>"Depth, consistency, and discipline define a professional developer."</sub>
 </p>
