@@ -1,39 +1,51 @@
-<h1 align="center">Hi 👋, I'm Rayane</h1>
-<h3 align="center">Computer Science Student | Web Developer | Cybersecurity Enthusiast</h3>
+<h1 align="center">Rayane Terki</h1>
+<h3 align="center">
+Computer Science Student · Software & Web Developer · Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/terki-rayane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Terki%20Rayane-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Terki%20Rayane-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rayaneterki55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rayaneterki55@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rayaneterki55@gmail.com-D14836?logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trrayane&style=flat&color=grey"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Professional Summary
 
-- 🎓 Computer science student passionate about **technology and problem-solving**
-- 💻 Focused on **Web Development** and **Cybersecurity**
-- 🛠️ I like building real, useful, and clean projects
-- 📚 Constantly learning and improving my skills
-- 🤝 Open to collaboration, clubs, and tech communities
+Computer science student with a **strong technical foundation** in  
+**low-level programming, software engineering, and web development**.
+
+I focus on:
+- writing **efficient and structured code**
+- understanding systems **from low-level to high-level**
+- building **real, functional projects**, not demos
+
+🎯 Long-term goal: **Software Engineering & Cybersecurity**
 
 ---
 
-## 🧰 Languages & Technologies
+## 🧰 Technical Expertise
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="40"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -47,23 +59,53 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-### ⚙️ Tools & Environment
+### ⚙️ Systems & Tools
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
+## 🧪 Academic & Personal Projects
+
+### 🎮 2048 Game — *C / SDL*
+- Full implementation of the **2048 game**
+- Manual event handling and rendering with **SDL2**
+- Emphasis on **memory management** and **performance**
+
+**Stack**: C, SDL2
+
+---
+
+### 🧮 Calculator — *Assembly*
+- Low-level calculator written in **x86 Assembly**
+- Supports basic arithmetic operations
+- Strengthened understanding of **registers, stack, and memory**
+
+**Stack**: Assembly (x86)
+
+---
+
+### 📚 Library Management System
+- Complete **CRUD system** for books, users, and loans
+- Structured backend logic with database integration
+- Clean separation between logic and data
+
+**Stack**: PHP / Node.js, MySQL
+
+---
+
 ## 🎯 Current Focus
 
-- 🌍 Full-Stack Web Development
-- 🔐 Cybersecurity fundamentals
+- 🔐 Cybersecurity & system security fundamentals
+- ⚙️ Low-level programming & OS concepts
+- 🌍 Full-stack web applications
 - 🧠 Algorithms & data structures
-- ✨ Writing clean, maintainable code
+- ✨ Clean architecture & maintainable code
 
 ---
 
@@ -76,6 +118,14 @@
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/trrayane/trrayane/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ## 🤝 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/terki-rayane  
@@ -84,5 +134,5 @@
 ---
 
 <p align="center">
-  <i>"Discipline beats motivation. Code every day."</i>
+  <i>Depth over hype. Discipline over motivation.</i>
 </p>
