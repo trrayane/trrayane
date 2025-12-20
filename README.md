@@ -81,23 +81,32 @@ Computer Science Student · Full-Stack Developer · Cybersecurity Enthusiast
 
 ---
 
-## 🎯 Focus Areas
+## 🌟 Open Source & Community
 
-- Full-Stack Development (Node.js, Express, React)  
+- Actively contributing to **open-source projects**  
+- Reviewing PRs, opening issues, and helping improve community code  
+- Participating in **tech forums** and **coding challenges**  
+- Focused on **maintainable, scalable code** and collaboration
+
+---
+
+## 🎯 Professional Focus
+
+- Full-Stack Web Development (Node.js, Express, React)  
 - Cybersecurity & Systems Security  
-- Low-level Programming & Operating Systems  
+- Low-level Programming & OS Concepts  
 - Algorithms & Data Structures  
-- Clean Code & Software Architecture  
+- Software Architecture & Best Practices  
 
 ---
 
 ## ⚡ Professional Highlights
 
-- Continuous GitHub activity to showcase **practice & consistency**  
-- Strong command of **languages from low-level (C, Assembly) to high-level (JS, Python, PHP)**  
-- Solid experience with **databases, backend APIs, and DevOps tools**  
-- Open for **collaboration, internships, and professional opportunities**  
-- Adheres to **clean, maintainable, and scalable code standards**
+- Maintains a **consistent GitHub activity**, showcasing practice & discipline  
+- Experienced in **low-level and high-level programming**  
+- Skilled in **databases, backend APIs, DevOps tools**  
+- Open to **collaboration, internships, and professional opportunities**  
+- Prioritizes **clean, maintainable, and scalable code**  
 
 ---
 
