@@ -1,22 +1,87 @@
-👋 Salut, je suis Rayane Terki
+# 👋 Hi, I'm Rayane Terki
 
-Développeur passionné et étudiant en informatique à l’USTHB, spécialisé en [tes spécialisations : ex. développement web, IA, systèmes embarqués]. Je crée des projets innovants tout en consolidant mes compétences académiques et professionnelles.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=0AFF9D&center=true&vCenter=true&width=650&lines=L3+Computer+Science+Student+at+USTHB;Backend+Developer;Cybersecurity+Enthusiast;Future+Full-Stack+Engineer" />
+</p>
 
-🛠️ Compétences techniques
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </p>
-🎓 Éducation
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rayane-terki&label=Visitors&color=0aff9d&style=flat" />
+</p>
 
-Université des Sciences et de la Technologie Houari Boumédiène (USTHB)
-Licence 3 en Informatique – [Année de début – Année de fin prévue]
+---
 
-📫 Contact
+## 🧩 About Me
 
-Email : rayane.terki@usthb.dz
+🎓 **L3 Computer Science student at USTHB**  
+🧠 Passionate about **Back-End Development & Cybersecurity**  
+⚙️ Interested in **APIs, databases, system architecture, and scalable systems**  
+🔐 Learning **secure coding, cybersecurity fundamentals, and system protection**  
+🌐 Goal: become a **Full-Stack Developer** with strong backend & security skills  
+🚀 Focused on building **reliable, efficient, and secure applications**
 
-LinkedIn : linkedin.com/in/rayane-terki
+---
 
-GitHub : github.com/rayaneterki
+## 🛠️ Tech Stack
 
-⚡ Fun fact
+### 💻 Core Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,lua,assembly" />
+</p>
 
-Quand je ne code pas, j’explore les nouvelles technologies, participe à des hackathons et partage mes découvertes avec la communauté.
+### 🌐 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,oracle,mysql" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### ⚙️ Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vercel" />
+</p>
+
+### 🎮 Game Development
+- Raylib  
+- SDL2  
+- LÖVE2D  
+
+---
+
+## 📊 GitHub Analytics (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayane-terki&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-terki&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rayane-terki&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:rayaneterki55@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/rayane-terki">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+💬 **Discord**: `tr_rayane`
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rayane-terki&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+> **"Build secure systems. Think deep. Code smart."** ⚙️🔐
