@@ -1,85 +1,72 @@
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=600&color=00E676&center=true&vCenter=true&width=700&lines=Rayane+Terki;Full-Stack+Developer;Backend+%26+Cybersecurity" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=600&color=00E676&center=true&vCenter=true&width=650&lines=Rayane+Terki;Développeur+Full-Stack;Backend+%26+Cybersécurité" />
+<br/>
+
+![USTHB](https://img.shields.io/badge/🎓_USTHB-Licence_3-00E676?style=flat-square&labelColor=161b22&color=00E676)
+![Open to work](https://img.shields.io/badge/💼_Open_to-Internship-58a6ff?style=flat-square&labelColor=161b22)
+![Location](https://img.shields.io/badge/📍-Algérie-30363d?style=flat-square&labelColor=161b22)
 
 </div>
 
 ---
 
-## 👤 Profil
-
-🎓 Étudiant en informatique — **USTHB (Licence 3)**  
-💻 **Développeur Full-Stack orienté Backend & Sécurité**  
-🔒 Sensibilisé aux bonnes pratiques de **cybersécurité**  
-🚀 À la recherche d’un **stage / opportunité junior**
-
----
-
 ## 🎯 Objectif Professionnel
 
-Concevoir des **applications web performantes et sécurisées**, avec une attention particulière portée à :
-- l’architecture backend,
-- la qualité du code,
-- la sécurité applicative.
+> Concevoir des **applications web performantes et sécurisées**, avec une attention particulière portée à l'architecture backend, la qualité du code, et la sécurité applicative.
+
+`Architecture Backend` · `Qualité du code` · `Sécurité applicative`
 
 ---
 
 ## 🛠️ Compétences Techniques
 
-### 💾 Langages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs,php,assembly&perline=8" />
+**Langages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs,php&theme=dark" />
 </p>
 
----
-
-### ⚙️ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,dotnet&perline=5" />
+**Backend & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,dotnet&theme=dark" />
 </p>
 
----
-
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" />
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 </p>
 
----
-
-### 🗄️ Bases de Données
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+**Bases de Données**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
----
-
-### 🔒 Systèmes, Sécurité & Outils
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,docker&perline=4" />
+**Systèmes, Sécurité & Outils**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,docker&theme=dark" />
 </p>
 
 ---
 
 ## 🎓 Formation
 
-**Licence Informatique – USTHB**  
-- Systèmes d’exploitation (C / Linux)  
-- Bases de données & SQL  
-- Réseaux (sockets, protocoles)  
-- Génie logiciel (UML, conception)  
-- Introduction à l’IA / ML  
+**Licence Informatique — USTHB** · Bab Ezzouar, Alger
+
+| Matière |
+|---------|
+| Systèmes d'exploitation (C / Linux) |
+| Bases de données & SQL |
+| Réseaux (sockets, protocoles) |
+| Génie logiciel (UML, conception) |
+| Introduction à l'IA / ML |
 
 ---
 
 ## 📊 Activité GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trrayane&show_icons=true&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trrayane&theme=radical&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=trrayane&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=00E676&icon_color=58a6ff&text_color=e6edf3" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trrayane&theme=github-dark-blue&hide_border=true&background=161b22&ring=00E676&fire=58a6ff&currStreakLabel=00E676" height="165" />
 </div>
 
 ---
@@ -88,24 +75,15 @@ Concevoir des **applications web performantes et sécurisées**, avec une attent
 
 <div align="center">
 
-<a href="mailto:rayaneterki55@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/trrayane">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</a>
-
-<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-
-**Discord :** `tr_rayane`
+[![Email](https://img.shields.io/badge/Email-rayaneterki55%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayaneterki55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-trrayane-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trrayane)
+[![Discord](https://img.shields.io/badge/Discord-tr__rayane-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-💡 *Code propre, architecture solide, sécurité intégrée.*
-
+  <sub><code>// clean code · solid architecture · security by design //</code></sub>
 </div>
+
