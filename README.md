@@ -39,7 +39,7 @@ Concevoir des **applications web performantes et sécurisées**, avec une attent
 ## ⚙️ Backend & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,dotnet&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet&perline=5" />
 </p>
 
 ---
