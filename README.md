@@ -117,5 +117,5 @@ Principaux domaines étudiés :
 <div align="center">
 
 💡 **Code propre • Architecture solide • Sécurité intégrée**
-.
+
 </div>
