@@ -118,4 +118,5 @@ Principaux domaines étudiés :
 
 💡 **Code propre • Architecture solide • Sécurité intégrée**
 
-</div>
+</div>.
+
