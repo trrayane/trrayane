@@ -191,7 +191,7 @@
       Hi there
       <animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.5s" fill="freeze"/>
     </text>
-    <g transform="translate(96,60)" opacity="0">
+    <g transform="translate(104,60)" opacity="0">
       <animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.5s" fill="freeze"/>
       <path d="M5 3L1 8l4 5M11 3l4 5-4 5" fill="none" stroke="#06B6D4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
