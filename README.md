@@ -11,7 +11,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=trrayane&theme=tokyonight&hide_border=true" height="165" />
 
-</div>.
+</div>
 
 
 
